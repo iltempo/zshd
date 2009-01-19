@@ -78,7 +78,7 @@ else
             lprompt '[]' bold green
             rprompt '()' yellow white
             ;;
-        oxygen*)
+        elbe219*)
             lprompt '[]' white green
             rprompt '()' yellow white
             ;;
