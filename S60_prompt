@@ -75,6 +75,7 @@ if [ $UID -eq 0 ]; then
 else
     case $HOST in
         nb-agreim*)
+	AlexxxMac*)
             lprompt '[]' bold green
             rprompt '()' yellow white
             ;;
