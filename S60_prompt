@@ -80,7 +80,7 @@ else
             ;;
         elbe219*)
             lprompt '[]' black green
-            rprompt '()' yellow black
+            rprompt '()' black blue
             ;;
 
         meson*)
