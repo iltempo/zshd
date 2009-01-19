@@ -79,8 +79,8 @@ else
             rprompt '()' yellow white
             ;;
         elbe219*)
-            lprompt '[]' white green
-            rprompt '()' yellow white
+            lprompt '[]' black green
+            rprompt '()' yellow black
             ;;
 
         meson*)
