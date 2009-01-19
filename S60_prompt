@@ -83,9 +83,9 @@ else
             rprompt '()' black blue
             ;;
 
-        meson*)
-            lprompt '<>' red yellow
-            rprompt '<>' red white
+        sofia114*)
+            lprompt '<>' black green
+            rprompt '<>' black red
             ;;
         muon*)
             lprompt '<>' red blue
