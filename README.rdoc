@@ -1,0 +1,15 @@
+= zShell Configuration
+
+This files are my initialization files for zShell. It includes support for OSX and git branch in prompt.
+
+== INSTALLATION
+
+* check out the repository to a directory named .zsh.d your home directory
+  git checkout git@github.com:iltempo/zshd.git ~/.zsh.d
+* extend your existing .zshrc file with the contents of .zshrc.template or just copy it ~/.zshrc if you haven't got one already.
+* modify S60_prompt
+
+== NOTE FOR OSX
+
+If your run this configuration on osx you will maybe will get errors about non existing gleadlink command. If you do so please install coreutils
+sudo port install coreutils
