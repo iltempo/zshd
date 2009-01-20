@@ -1,5 +1,6 @@
 = zShell Configuration
 
+I adopted zShell configuration from http://www.jukie.net/~bart/blog/20080404105620 and modified it to support OSXx too.
 This files are my initialization files for zShell. It includes support for OSX and git branch in prompt.
 
 == INSTALLATION
@@ -13,3 +14,5 @@ This files are my initialization files for zShell. It includes support for OSX a
 
 If your run this configuration on osx you will maybe will get errors about non existing gleadlink command. If you do so please install coreutils
 sudo port install coreutils
+
+
