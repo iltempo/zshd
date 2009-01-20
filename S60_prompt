@@ -78,7 +78,7 @@ else
             lprompt '[]' bold green
             rprompt '()' yellow white
             ;;
-	AlexxxMac*)
+	Alexanders-Mac*)
             lprompt '[]' bold green
             rprompt '()' yellow white
             ;;
