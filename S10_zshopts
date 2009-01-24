@@ -1,7 +1,6 @@
 #! /bin/zsh
 
 export CLICOLOR=1
-export LSCOLORS=dxfxcxdxbxegedabagacad
 
 autoload -U is-at-least
 
